@@ -1,8 +1,12 @@
 body {
-	background: url("sitebg1.jpg");
+	background: url("sitebg.jpg");
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 	background-color: #cccccc;
+}
+
+i {
+	padding: 2px 2px 5px 5px;
 }
